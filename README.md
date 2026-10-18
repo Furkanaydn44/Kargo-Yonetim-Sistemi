@@ -114,7 +114,6 @@ npm run dev
 ```
 Uygulama genellikle `http://localhost:5173` adresinde çalışacaktır (Vite çıktısını kontrol edin).
 
-## 🤝 Katkıda Bulunma
 
 1.  Bu projeyi forklayın.
 2.  Yeni bir özellik dalı oluşturun (`git checkout -b feature/YeniOzellik`).
